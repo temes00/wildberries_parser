@@ -1,0 +1,13 @@
+import sys
+import os
+
+ALL_PRODUCT_ON_PAGE = 100
+PAGE_LIMIT = 5
+GET_PRODUCT_ON_PAGE = 100
+
+CATALOGS_GET_TIMEOUT = 5
+PRODUCTS_CART_GET_TIMEOUT = 10
+
+PAGER_PARSE = False
+
+SITE_URL = "https://www.wildberries.ru"
